@@ -1,0 +1,37 @@
+_repo: The-Goodness-of-St.-Rocque-and-Other-Stories_688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dunbar-Nelson, Alice Moore
+    aliases:
+    - Nelson, Alice Ruth Moore Dunbar
+    - Moore, Alice Ruth
+    - Dunbar, Alice Moore
+    birthdate: 1875
+    deathdate: 1935
+    gutenberg_agent_id: '354'
+    url: http://www.gutenberg.org/2009/agents/354
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Dunbar-Nelson
+description: ''
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'New Orleans (La.) -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- GITenberg
+tableOfContents: The goodness of Saint Rocque -- Tony's wife -- The fisherman of Pass
+  Christian -- M'sieu Fortier's violin -- By the Bayou St. John -- When the bayou
+  overflows -- Mr. Baptiste -- A carnival jangle -- Little Miss Sophie -- Sister Josepha
+  -- The praline woman -- Odalie -- La Juanita -- Titee.
+title: The Goodness of St. Rocque, and Other Stories
+url: http://www.gutenberg.org/ebooks/688
